@@ -6,6 +6,14 @@ An electronic dice based on the CH32V003 RISC-V microcontroller with bottom-moun
 
 This project is a compact electronic dice that uses bottom-mounted switch buttons for activation. Simply press the PCB from the bottom to activate the switches and generate a random number displayed on 6 LEDs arranged in a traditional dice pattern.
 
+![PCB Top View](3d_top.png)
+![PCB Bottom View](3d_bottom.png)
+
+## Schematic and PCB Layout
+
+![Schematic](schematic.png)
+![PCB Layout](pcb.png)
+
 ## Hardware Features
 
 - **Microcontroller**: CH32V003F4P6 (RISC-V 32-bit)
